@@ -8,6 +8,7 @@
     "test:ci": "jest --ci"
   },
   "dependencies": {
+    "@solana/web3.js": "^1.66.2",
     "next": "latest",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
